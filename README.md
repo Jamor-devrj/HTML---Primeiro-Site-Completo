@@ -6,6 +6,7 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 - Estruturação e formatação de texto
 - Mídias
 - Tabelas
+  
 <div align="center">
 
 <img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page1.jpg" alt="" width="600px"><br>
