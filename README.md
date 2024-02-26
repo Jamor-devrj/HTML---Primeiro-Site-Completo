@@ -9,10 +9,18 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
   
 <div align="center">
 
-<img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page1.jpg" alt="" width="600px"><br>
+<img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page1.jpg" alt="" width="600px">
+
+<br>
+
 <img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page2.jpg" alt="" width="300px">
-<img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page3.jpg" alt="" width="300px"><br>
+
+<img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page3.jpg" alt="" width="300px">
+
+<br>
+
 <img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page4.jpg" alt="" width="300px">
+
 <img title="adote um gatinho" src="../primeiro-siteHtml-completo/assets/readme/page5.jpg" alt="" width="300px">
 
 </div>
